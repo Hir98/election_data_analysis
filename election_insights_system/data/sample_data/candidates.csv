@@ -1,0 +1,781 @@
+candidate_id,candidate_name,party,constituency,age,education,criminal_cases,assets,incumbency
+K00001,Sneha Kumar,BJP,Mumbai-1,50,Post Graduate,0,26941036,False
+K00002,Deepak Gupta,INC,Mumbai-1,50,12th,2,5014626,False
+K00003,Arjun Patel,DMK,Mumbai-1,52,Graduate,1,5729133,False
+K00004,Arjun Gupta,AAP,Mumbai-1,48,Graduate,0,674103,False
+K00005,Rahul Nair,BSP,Mumbai-1,53,Graduate,0,10519807,False
+K00006,Amit Kumar,INC,Mumbai-2,63,Graduate,0,39975698,False
+K00007,Rohan Patel,AAP,Mumbai-2,55,Graduate,0,2036956,False
+K00008,Vikram Joshi,DMK,Mumbai-2,53,Graduate,2,40493082,True
+K00009,Sunita Gupta,TMC,Mumbai-2,74,12th,2,52795847,False
+K00010,Rohan Gupta,NCP,Mumbai-2,40,Graduate,0,3798729,False
+K00011,Manoj Reddy,DMK,Mumbai-3,59,Post Graduate,1,31935251,False
+K00012,Asha Reddy,TMC,Mumbai-3,47,Post Graduate,0,3453845,False
+K00013,Sunita Mehta,BSP,Mumbai-3,63,Post Graduate,0,547785,True
+K00014,Vikram Reddy,INC,Mumbai-3,61,Post Graduate,0,4509959,False
+K00015,Manoj Mehta,Independent,Mumbai-3,68,12th,0,5934677,False
+K00016,Amit Mehta,BSP,Mumbai-4,62,Post Graduate,5,8284614,False
+K00017,Vikram Chowdhury,TMC,Mumbai-4,33,Post Graduate,0,5014217,True
+K00018,Asha Sharma,BJP,Mumbai-4,51,Post Graduate,0,9102458,False
+K00019,Rohan Reddy,NCP,Mumbai-4,37,Doctorate,0,12872120,False
+K00020,Pooja Singh,DMK,Mumbai-4,39,Graduate,0,10160063,False
+K00021,Pooja Gupta,NCP,Pune-1,51,Graduate,0,18656124,False
+K00022,Anjali Joshi,AAP,Pune-1,47,Graduate,0,2904080,False
+K00023,Priya Gupta,BSP,Pune-1,46,Graduate,0,1922746,False
+K00024,Asha Patel,BJP,Pune-1,36,Graduate,0,4201731,True
+K00025,Manoj Nair,DMK,Pune-1,73,Graduate,0,5642527,False
+K00026,Manoj Gupta,NCP,Pune-2,57,Post Graduate,0,25803626,False
+K00027,Vikram Patel,SP,Pune-2,50,Graduate,2,4043978,True
+K00028,Arjun Rao,BSP,Pune-2,43,Post Graduate,0,11448344,False
+K00029,Rahul Banerjee,INC,Pune-2,48,Graduate,0,270358,False
+K00030,Asha Mehta,DMK,Pune-2,45,Graduate,1,311835,False
+K00031,Ravi Gupta,TMC,Pune-3,58,Doctorate,0,8077760,False
+K00032,Sunita Sharma,AAP,Pune-3,41,12th,0,5976389,False
+K00033,Asha Banerjee,NCP,Pune-3,34,Graduate,0,7021607,True
+K00034,Deepak Joshi,BJP,Pune-3,49,Doctorate,0,5065036,True
+K00035,Sunita Chowdhury,SP,Pune-3,44,12th,0,1321116,False
+K00036,Priya Iyer,AAP,Pune-4,54,Graduate,0,17605701,False
+K00037,Sneha Gupta,BSP,Pune-4,51,Post Graduate,0,36907575,False
+K00038,Pooja Iyer,DMK,Pune-4,78,Graduate,1,20153580,False
+K00039,Vikram Das,TMC,Pune-4,40,Post Graduate,0,4208259,False
+K00040,Sneha Reddy,SP,Pune-4,67,12th,0,982107,True
+K00041,Rohan Rao,BSP,Nagpur-1,36,Post Graduate,0,11204880,False
+K00042,Deepak Sharma,TMC,Nagpur-1,46,Post Graduate,0,2388579,True
+K00043,Sneha Iyer,SP,Nagpur-1,45,Post Graduate,0,1752952,False
+K00044,Priya Rao,BJP,Nagpur-1,25,Doctorate,8,13125072,False
+K00045,Sunita Reddy,INC,Nagpur-1,49,Post Graduate,5,1656416,False
+K00046,Vikram Nair,TMC,Nagpur-2,54,Graduate,0,7691686,False
+K00047,Arjun Mehta,BJP,Nagpur-2,57,Post Graduate,3,1512354,False
+K00048,Arjun Nair,INC,Nagpur-2,74,Post Graduate,0,44255747,False
+K00049,Rohan Reddy,DMK,Nagpur-2,44,Graduate,0,11316566,False
+K00050,Priya Nair,BSP,Nagpur-2,55,Graduate,0,152780,False
+K00051,Arjun Mehta,BJP,Nagpur-3,54,Doctorate,0,1663423,False
+K00052,Rohan Banerjee,NCP,Nagpur-3,39,Post Graduate,0,7633564,True
+K00053,Sunita Das,Independent,Nagpur-3,44,Graduate,0,5732247,False
+K00054,Arjun Kumar,SP,Nagpur-3,45,Graduate,0,14480687,False
+K00055,Amit Banerjee,INC,Nagpur-3,57,Post Graduate,0,35111497,False
+K00056,Sneha Sharma,BSP,Nagpur-4,32,Graduate,3,1407861,False
+K00057,Pooja Singh,NCP,Nagpur-4,56,12th,5,2457903,False
+K00058,Rahul Chowdhury,BJP,Nagpur-4,57,Graduate,2,42041774,True
+K00059,Rahul Patel,Independent,Nagpur-4,55,Post Graduate,0,3155192,True
+K00060,Rohan Mehta,AAP,Nagpur-4,48,Post Graduate,2,3559838,False
+K00061,Manoj Joshi,TMC,Nashik-1,55,Graduate,0,80038717,False
+K00062,Amit Reddy,INC,Nashik-1,49,Post Graduate,2,18474501,False
+K00063,Amit Nair,SP,Nashik-1,29,12th,0,1453504,False
+K00064,Sunita Singh,NCP,Nashik-1,63,Doctorate,0,1800169,False
+K00065,Arjun Das,BSP,Nashik-1,55,Post Graduate,0,4053816,False
+K00066,Amit Kumar,BJP,Nashik-2,61,Doctorate,0,6103095,False
+K00067,Deepak Reddy,BSP,Nashik-2,35,Graduate,0,23840115,True
+K00068,Asha Gupta,SP,Nashik-2,57,Post Graduate,0,27276202,False
+K00069,Ravi Mehta,NCP,Nashik-2,54,Graduate,0,7442272,False
+K00070,Rahul Iyer,Independent,Nashik-2,39,Doctorate,1,1863371,True
+K00071,Priya Iyer,AAP,Nashik-3,52,Graduate,1,2896591,False
+K00072,Vikram Reddy,SP,Nashik-3,48,Post Graduate,2,15837328,False
+K00073,Rahul Das,INC,Nashik-3,49,Graduate,1,1509980,False
+K00074,Arjun Patel,Independent,Nashik-3,47,Post Graduate,1,2627544,False
+K00075,Arjun Sharma,NCP,Nashik-3,61,Graduate,0,31400338,True
+K00076,Pooja Nair,SP,Nashik-4,34,Graduate,0,7765905,True
+K00077,Deepak Rao,AAP,Nashik-4,32,Doctorate,0,37688199,False
+K00078,Asha Singh,DMK,Nashik-4,53,Graduate,0,167524984,True
+K00079,Priya Sharma,TMC,Nashik-4,53,Graduate,0,13845856,False
+K00080,Ravi Chowdhury,BSP,Nashik-4,54,10th,0,9575819,False
+K00081,Kiran Rao,TMC,Aurangabad-1,72,Graduate,0,30986000,False
+K00082,Asha Kumar,BJP,Aurangabad-1,54,Doctorate,3,6138703,False
+K00083,Deepak Nair,AAP,Aurangabad-1,41,10th,8,4576646,False
+K00084,Vikram Banerjee,SP,Aurangabad-1,79,Doctorate,0,10650724,False
+K00085,Asha Rao,BSP,Aurangabad-1,50,Post Graduate,2,3094245,False
+K00086,Sneha Reddy,BJP,Aurangabad-2,61,Post Graduate,3,263825,False
+K00087,Amit Chowdhury,Independent,Aurangabad-2,37,Post Graduate,1,1000887,False
+K00088,Arjun Mehta,NCP,Aurangabad-2,35,Graduate,0,3840235,False
+K00089,Asha Patel,INC,Aurangabad-2,49,Doctorate,0,3780849,False
+K00090,Manoj Gupta,TMC,Aurangabad-2,60,Graduate,0,4393434,False
+K00091,Priya Joshi,BSP,Aurangabad-3,72,Doctorate,0,23313299,False
+K00092,Rohan Joshi,DMK,Aurangabad-3,40,Graduate,5,10550355,False
+K00093,Vikram Nair,INC,Aurangabad-3,49,Post Graduate,0,1278906,False
+K00094,Anjali Joshi,Independent,Aurangabad-3,52,Graduate,0,6620839,True
+K00095,Anjali Sharma,AAP,Aurangabad-3,52,Graduate,0,5223286,False
+K00096,Kiran Singh,TMC,Aurangabad-4,50,Post Graduate,0,6593188,True
+K00097,Deepak Iyer,DMK,Aurangabad-4,51,Graduate,0,2659231,False
+K00098,Vikram Nair,BSP,Aurangabad-4,67,Post Graduate,0,169879,False
+K00099,Sneha Nair,INC,Aurangabad-4,65,Post Graduate,0,363884,False
+K00100,Pooja Kumar,AAP,Aurangabad-4,55,Post Graduate,5,3869873,False
+K00101,Anjali Banerjee,BSP,Bengaluru-1,36,Graduate,0,1960751,False
+K00102,Sunita Das,INC,Bengaluru-1,48,Graduate,0,4923514,False
+K00103,Sunita Banerjee,AAP,Bengaluru-1,62,Doctorate,0,28148978,False
+K00104,Priya Mehta,Independent,Bengaluru-1,44,12th,0,2091078,False
+K00105,Manoj Joshi,BJP,Bengaluru-1,46,Graduate,0,10182559,False
+K00106,Arjun Sharma,TMC,Bengaluru-2,48,Graduate,0,4000856,False
+K00107,Asha Banerjee,SP,Bengaluru-2,59,12th,2,9602579,False
+K00108,Manoj Joshi,BJP,Bengaluru-2,70,Graduate,0,1455389,False
+K00109,Sunita Nair,Independent,Bengaluru-2,58,Graduate,0,3604125,False
+K00110,Arjun Banerjee,DMK,Bengaluru-2,33,Post Graduate,3,53441225,False
+K00111,Sunita Sharma,Independent,Bengaluru-3,46,Graduate,0,21077401,False
+K00112,Rohan Das,TMC,Bengaluru-3,66,12th,0,551810,False
+K00113,Rahul Gupta,BJP,Bengaluru-3,37,Graduate,0,52758340,False
+K00114,Deepak Das,DMK,Bengaluru-3,32,Post Graduate,5,2654059,False
+K00115,Rahul Nair,SP,Bengaluru-3,46,Post Graduate,2,9055446,False
+K00116,Asha Mehta,AAP,Bengaluru-4,62,Graduate,1,5177093,False
+K00117,Sunita Mehta,NCP,Bengaluru-4,48,Graduate,0,5005113,False
+K00118,Pooja Iyer,TMC,Bengaluru-4,75,Graduate,0,12915445,False
+K00119,Deepak Gupta,BSP,Bengaluru-4,53,12th,8,4243172,True
+K00120,Anjali Rao,BJP,Bengaluru-4,37,Graduate,0,6144467,False
+K00121,Anjali Sharma,Independent,Mysuru-1,54,Graduate,0,1510747,False
+K00122,Deepak Banerjee,BSP,Mysuru-1,74,Graduate,2,13699488,False
+K00123,Asha Banerjee,AAP,Mysuru-1,54,Graduate,0,19336368,False
+K00124,Vikram Iyer,SP,Mysuru-1,40,Post Graduate,3,10463308,False
+K00125,Asha Nair,TMC,Mysuru-1,31,Graduate,0,1021262,False
+K00126,Sunita Sharma,TMC,Mysuru-2,48,Graduate,0,6976974,False
+K00127,Ravi Nair,NCP,Mysuru-2,45,Post Graduate,0,865740,False
+K00128,Deepak Kumar,BJP,Mysuru-2,66,Doctorate,0,1708435,False
+K00129,Deepak Nair,AAP,Mysuru-2,41,Graduate,0,165105741,False
+K00130,Rohan Mehta,BSP,Mysuru-2,53,Graduate,0,6802140,False
+K00131,Sneha Das,AAP,Mysuru-3,45,Graduate,0,6316101,False
+K00132,Anjali Iyer,INC,Mysuru-3,33,Post Graduate,1,19448079,False
+K00133,Amit Chowdhury,BSP,Mysuru-3,51,12th,0,53867658,True
+K00134,Rahul Sharma,TMC,Mysuru-3,34,Doctorate,2,3202698,False
+K00135,Manoj Patel,Independent,Mysuru-3,58,Post Graduate,0,19083235,False
+K00136,Priya Reddy,INC,Mysuru-4,32,12th,0,23851931,False
+K00137,Kiran Reddy,TMC,Mysuru-4,51,Graduate,0,12077728,False
+K00138,Vikram Kumar,BJP,Mysuru-4,63,Post Graduate,1,6296392,False
+K00139,Pooja Patel,BSP,Mysuru-4,58,Post Graduate,0,21966188,True
+K00140,Amit Patel,SP,Mysuru-4,47,Graduate,0,12271918,False
+K00141,Kiran Rao,Independent,Hubballi-1,56,Post Graduate,0,7060270,False
+K00142,Pooja Banerjee,BSP,Hubballi-1,61,Graduate,0,6414053,False
+K00143,Ravi Patel,DMK,Hubballi-1,40,Post Graduate,3,21191245,False
+K00144,Arjun Singh,BJP,Hubballi-1,64,Graduate,2,4854707,False
+K00145,Rohan Gupta,INC,Hubballi-1,62,Post Graduate,0,2755589,True
+K00146,Manoj Chowdhury,Independent,Hubballi-2,36,Graduate,0,10338065,True
+K00147,Priya Rao,NCP,Hubballi-2,54,Graduate,0,2892485,False
+K00148,Kiran Banerjee,INC,Hubballi-2,49,Doctorate,0,6423541,False
+K00149,Sunita Nair,TMC,Hubballi-2,67,Post Graduate,0,6958825,False
+K00150,Vikram Chowdhury,AAP,Hubballi-2,61,Graduate,0,7786810,False
+K00151,Kiran Mehta,SP,Hubballi-3,52,Graduate,5,21533587,True
+K00152,Asha Singh,NCP,Hubballi-3,65,Graduate,0,2216718,False
+K00153,Ravi Iyer,BJP,Hubballi-3,77,Graduate,2,3362885,False
+K00154,Pooja Iyer,TMC,Hubballi-3,33,Graduate,1,547885,False
+K00155,Sneha Patel,BSP,Hubballi-3,47,Graduate,0,3736575,False
+K00156,Sunita Banerjee,BSP,Hubballi-4,40,10th,0,1374793,False
+K00157,Anjali Rao,TMC,Hubballi-4,51,Graduate,0,7307992,False
+K00158,Vikram Das,DMK,Hubballi-4,40,Graduate,5,13090668,False
+K00159,Pooja Gupta,NCP,Hubballi-4,62,Graduate,5,4080844,False
+K00160,Amit Iyer,Independent,Hubballi-4,77,Graduate,0,2273734,True
+K00161,Ravi Rao,TMC,Mangaluru-1,53,Graduate,0,10223368,False
+K00162,Sunita Iyer,DMK,Mangaluru-1,34,Post Graduate,0,5933660,False
+K00163,Rahul Joshi,INC,Mangaluru-1,45,Graduate,1,2617891,True
+K00164,Sneha Iyer,NCP,Mangaluru-1,46,Graduate,5,4331613,True
+K00165,Arjun Rao,SP,Mangaluru-1,67,Graduate,0,2566438,False
+K00166,Rohan Chowdhury,INC,Mangaluru-2,55,10th,0,3303461,False
+K00167,Sunita Das,SP,Mangaluru-2,54,Graduate,0,751279,False
+K00168,Amit Chowdhury,DMK,Mangaluru-2,42,Graduate,2,6676518,False
+K00169,Anjali Das,BJP,Mangaluru-2,45,12th,3,3255928,False
+K00170,Arjun Kumar,TMC,Mangaluru-2,57,12th,0,22047120,False
+K00171,Ravi Nair,SP,Mangaluru-3,50,Post Graduate,0,1909235,False
+K00172,Sneha Banerjee,BJP,Mangaluru-3,61,Graduate,0,1566118,False
+K00173,Sunita Iyer,NCP,Mangaluru-3,46,Post Graduate,2,7209602,False
+K00174,Amit Joshi,INC,Mangaluru-3,25,Post Graduate,0,1738806,False
+K00175,Pooja Patel,BSP,Mangaluru-3,46,Doctorate,0,20944971,False
+K00176,Sneha Kumar,TMC,Mangaluru-4,33,Graduate,2,9833575,True
+K00177,Anjali Das,SP,Mangaluru-4,58,Post Graduate,2,22778203,False
+K00178,Arjun Reddy,DMK,Mangaluru-4,56,Graduate,2,13653536,False
+K00179,Asha Das,INC,Mangaluru-4,63,12th,0,24644991,False
+K00180,Amit Banerjee,BJP,Mangaluru-4,44,Post Graduate,3,10066571,False
+K00181,Manoj Kumar,TMC,Chennai-1,50,Doctorate,0,6522235,False
+K00182,Rohan Sharma,Independent,Chennai-1,44,Graduate,2,10256704,False
+K00183,Pooja Chowdhury,INC,Chennai-1,52,Graduate,0,28402491,False
+K00184,Rohan Das,SP,Chennai-1,60,Post Graduate,8,777461,False
+K00185,Amit Gupta,BJP,Chennai-1,37,Graduate,0,14219568,False
+K00186,Amit Sharma,INC,Chennai-2,68,12th,0,7115026,False
+K00187,Asha Chowdhury,Independent,Chennai-2,54,Graduate,5,41895511,False
+K00188,Ravi Mehta,DMK,Chennai-2,65,Post Graduate,5,827411,False
+K00189,Ravi Banerjee,AAP,Chennai-2,47,Graduate,0,6936563,False
+K00190,Sunita Iyer,SP,Chennai-2,48,Graduate,0,6763364,False
+K00191,Vikram Singh,NCP,Chennai-3,65,Post Graduate,0,744045,False
+K00192,Vikram Nair,BJP,Chennai-3,56,Post Graduate,0,2720844,False
+K00193,Anjali Chowdhury,TMC,Chennai-3,69,Post Graduate,0,4948151,True
+K00194,Rohan Singh,AAP,Chennai-3,33,Graduate,8,3177353,True
+K00195,Ravi Nair,Independent,Chennai-3,36,Post Graduate,0,309140,False
+K00196,Rahul Singh,INC,Chennai-4,59,Post Graduate,0,19452799,False
+K00197,Sunita Banerjee,NCP,Chennai-4,54,12th,0,2588781,False
+K00198,Priya Iyer,TMC,Chennai-4,49,Graduate,5,1213420,False
+K00199,Rohan Sharma,BSP,Chennai-4,72,Doctorate,0,1340951,False
+K00200,Sneha Rao,BJP,Chennai-4,61,Graduate,0,4120407,False
+K00201,Sunita Patel,BSP,Coimbatore-1,38,Post Graduate,2,35211876,True
+K00202,Deepak Rao,Independent,Coimbatore-1,57,Graduate,0,5190796,False
+K00203,Anjali Chowdhury,INC,Coimbatore-1,55,Graduate,1,9759767,False
+K00204,Sunita Gupta,BJP,Coimbatore-1,57,12th,0,11872894,False
+K00205,Kiran Gupta,NCP,Coimbatore-1,54,Post Graduate,1,13547395,True
+K00206,Deepak Banerjee,BJP,Coimbatore-2,40,Graduate,0,5052044,False
+K00207,Amit Rao,SP,Coimbatore-2,44,Graduate,0,56020181,False
+K00208,Manoj Das,Independent,Coimbatore-2,43,Post Graduate,0,5290504,False
+K00209,Sunita Singh,TMC,Coimbatore-2,61,Graduate,0,2307300,False
+K00210,Anjali Das,AAP,Coimbatore-2,48,Doctorate,0,5214711,False
+K00211,Vikram Rao,TMC,Coimbatore-3,47,Graduate,0,230719,False
+K00212,Anjali Nair,Independent,Coimbatore-3,63,Doctorate,2,1300529,False
+K00213,Manoj Kumar,BJP,Coimbatore-3,41,Graduate,0,5065559,True
+K00214,Rahul Joshi,BSP,Coimbatore-3,78,Graduate,1,5233631,True
+K00215,Asha Das,INC,Coimbatore-3,49,12th,0,5581407,False
+K00216,Rohan Das,INC,Coimbatore-4,42,Post Graduate,0,5660135,False
+K00217,Kiran Rao,AAP,Coimbatore-4,40,Graduate,0,3739900,True
+K00218,Vikram Chowdhury,TMC,Coimbatore-4,62,Post Graduate,0,12119214,False
+K00219,Vikram Mehta,DMK,Coimbatore-4,67,Post Graduate,0,17930680,False
+K00220,Asha Gupta,BJP,Coimbatore-4,71,10th,2,8583080,True
+K00221,Rohan Banerjee,SP,Madurai-1,61,Post Graduate,0,12307548,False
+K00222,Sunita Kumar,TMC,Madurai-1,53,Post Graduate,2,18535328,False
+K00223,Arjun Singh,DMK,Madurai-1,74,Post Graduate,0,2200193,False
+K00224,Vikram Nair,INC,Madurai-1,47,12th,0,7031525,False
+K00225,Kiran Mehta,NCP,Madurai-1,44,Post Graduate,2,2873232,True
+K00226,Sunita Joshi,BJP,Madurai-2,40,12th,1,2708518,False
+K00227,Amit Das,Independent,Madurai-2,51,Graduate,0,87307896,True
+K00228,Ravi Das,SP,Madurai-2,41,Doctorate,8,14350903,False
+K00229,Priya Patel,DMK,Madurai-2,52,Graduate,0,6299877,False
+K00230,Kiran Iyer,BSP,Madurai-2,46,Post Graduate,0,7096224,False
+K00231,Anjali Chowdhury,SP,Madurai-3,49,Graduate,2,615900,False
+K00232,Kiran Singh,NCP,Madurai-3,62,Graduate,0,16770066,False
+K00233,Amit Sharma,Independent,Madurai-3,38,Doctorate,8,803162,False
+K00234,Amit Sharma,AAP,Madurai-3,34,Graduate,1,72729543,False
+K00235,Pooja Sharma,BJP,Madurai-3,63,Doctorate,3,5126526,False
+K00236,Manoj Reddy,SP,Madurai-4,34,Post Graduate,0,2559701,False
+K00237,Pooja Banerjee,TMC,Madurai-4,68,Post Graduate,1,32414576,False
+K00238,Manoj Patel,BSP,Madurai-4,56,Doctorate,3,2210449,False
+K00239,Amit Banerjee,AAP,Madurai-4,45,Graduate,8,2251010,False
+K00240,Pooja Kumar,BJP,Madurai-4,55,12th,0,3689726,False
+K00241,Deepak Singh,Independent,Trichy-1,57,Graduate,0,3329062,False
+K00242,Asha Kumar,AAP,Trichy-1,27,Graduate,0,7317357,False
+K00243,Sunita Banerjee,BJP,Trichy-1,48,Graduate,5,1257239,False
+K00244,Ravi Patel,BSP,Trichy-1,60,Graduate,0,1067152,True
+K00245,Ravi Reddy,SP,Trichy-1,46,Post Graduate,5,8456577,False
+K00246,Amit Gupta,Independent,Trichy-2,34,12th,0,3782460,False
+K00247,Pooja Mehta,DMK,Trichy-2,52,Graduate,0,1016738,False
+K00248,Manoj Singh,INC,Trichy-2,49,12th,0,26796798,False
+K00249,Arjun Joshi,TMC,Trichy-2,68,Post Graduate,0,16277401,False
+K00250,Deepak Joshi,BSP,Trichy-2,61,Graduate,0,26409944,True
+K00251,Priya Sharma,NCP,Trichy-3,56,Doctorate,0,9426676,False
+K00252,Sunita Patel,SP,Trichy-3,48,12th,0,8829809,False
+K00253,Priya Nair,DMK,Trichy-3,51,Graduate,0,5135106,False
+K00254,Pooja Rao,TMC,Trichy-3,50,Doctorate,5,1403610,False
+K00255,Pooja Rao,INC,Trichy-3,52,Graduate,0,401249,False
+K00256,Arjun Rao,BJP,Trichy-4,53,Graduate,2,9706393,False
+K00257,Sneha Chowdhury,NCP,Trichy-4,62,Graduate,0,124849,False
+K00258,Vikram Gupta,SP,Trichy-4,42,Doctorate,0,9105662,False
+K00259,Arjun Nair,TMC,Trichy-4,64,Graduate,0,1394605,False
+K00260,Asha Chowdhury,AAP,Trichy-4,55,Graduate,0,2313038,False
+K00261,Priya Banerjee,INC,Lucknow-1,49,Graduate,0,7150284,True
+K00262,Ravi Gupta,BSP,Lucknow-1,51,Graduate,0,72887626,False
+K00263,Asha Reddy,Independent,Lucknow-1,54,Graduate,0,21122528,True
+K00264,Deepak Joshi,AAP,Lucknow-1,54,10th,0,9664761,False
+K00265,Priya Kumar,BJP,Lucknow-1,59,Graduate,0,1219673,False
+K00266,Ravi Banerjee,BJP,Lucknow-2,43,Graduate,0,7925665,False
+K00267,Priya Iyer,INC,Lucknow-2,51,12th,2,8263767,False
+K00268,Rahul Patel,BSP,Lucknow-2,55,Post Graduate,1,34821167,False
+K00269,Ravi Singh,NCP,Lucknow-2,49,Graduate,0,18874329,True
+K00270,Rahul Reddy,AAP,Lucknow-2,63,Doctorate,1,11307032,True
+K00271,Arjun Das,BSP,Lucknow-3,48,Post Graduate,2,32230341,False
+K00272,Rohan Das,SP,Lucknow-3,53,Post Graduate,0,1415117,False
+K00273,Deepak Patel,TMC,Lucknow-3,39,Graduate,0,828965,True
+K00274,Priya Iyer,DMK,Lucknow-3,42,Post Graduate,0,40561518,False
+K00275,Pooja Singh,INC,Lucknow-3,44,Graduate,0,965096,False
+K00276,Rohan Banerjee,SP,Lucknow-4,53,Post Graduate,0,2169157,False
+K00277,Manoj Banerjee,NCP,Lucknow-4,44,Graduate,0,100751389,False
+K00278,Anjali Das,BSP,Lucknow-4,52,Post Graduate,0,23299725,False
+K00279,Asha Das,Independent,Lucknow-4,36,Graduate,0,634746,False
+K00280,Vikram Nair,TMC,Lucknow-4,77,Graduate,1,13834787,False
+K00281,Rohan Nair,AAP,Kanpur-1,58,12th,5,16345124,False
+K00282,Ravi Kumar,NCP,Kanpur-1,49,Graduate,3,8972813,False
+K00283,Rahul Gupta,INC,Kanpur-1,43,Graduate,0,3741968,True
+K00284,Vikram Chowdhury,Independent,Kanpur-1,42,Post Graduate,0,1499205,False
+K00285,Asha Rao,DMK,Kanpur-1,53,12th,0,32920396,False
+K00286,Sneha Kumar,SP,Kanpur-2,68,Post Graduate,0,14724276,False
+K00287,Rohan Singh,DMK,Kanpur-2,41,Post Graduate,0,4024764,False
+K00288,Ravi Iyer,INC,Kanpur-2,41,Graduate,0,11032416,False
+K00289,Asha Gupta,BSP,Kanpur-2,45,Doctorate,0,8167851,False
+K00290,Kiran Mehta,NCP,Kanpur-2,67,Post Graduate,0,4888091,True
+K00291,Deepak Singh,SP,Kanpur-3,53,Graduate,5,3084107,False
+K00292,Priya Joshi,INC,Kanpur-3,65,Post Graduate,3,8878676,True
+K00293,Pooja Mehta,BJP,Kanpur-3,44,Doctorate,0,2276680,True
+K00294,Rahul Reddy,AAP,Kanpur-3,64,Graduate,3,3644846,False
+K00295,Priya Singh,DMK,Kanpur-3,38,Graduate,1,2189586,False
+K00296,Arjun Mehta,BJP,Kanpur-4,60,12th,0,2601028,False
+K00297,Anjali Das,INC,Kanpur-4,44,Post Graduate,0,7746040,False
+K00298,Sneha Banerjee,BSP,Kanpur-4,76,Graduate,0,1078231,False
+K00299,Rohan Iyer,Independent,Kanpur-4,58,Post Graduate,0,9229715,False
+K00300,Rahul Mehta,SP,Kanpur-4,65,Graduate,0,44474009,False
+K00301,Ravi Kumar,INC,Varanasi-1,45,Post Graduate,0,908232,False
+K00302,Rohan Sharma,BSP,Varanasi-1,55,Graduate,0,5375117,False
+K00303,Priya Nair,BJP,Varanasi-1,43,Graduate,0,45392245,False
+K00304,Rahul Chowdhury,AAP,Varanasi-1,62,Post Graduate,8,22640793,False
+K00305,Anjali Chowdhury,Independent,Varanasi-1,58,Post Graduate,0,44764036,False
+K00306,Anjali Joshi,NCP,Varanasi-2,39,Graduate,0,2137851,False
+K00307,Amit Patel,BJP,Varanasi-2,52,Graduate,0,1980846,False
+K00308,Priya Banerjee,Independent,Varanasi-2,45,Doctorate,0,13413671,False
+K00309,Pooja Singh,AAP,Varanasi-2,55,12th,0,15927976,False
+K00310,Sneha Nair,SP,Varanasi-2,39,Graduate,0,1084350,False
+K00311,Vikram Banerjee,Independent,Varanasi-3,70,Graduate,0,9292560,False
+K00312,Rohan Gupta,SP,Varanasi-3,53,Graduate,5,2224063,False
+K00313,Vikram Singh,DMK,Varanasi-3,57,Post Graduate,0,1628425,False
+K00314,Asha Kumar,AAP,Varanasi-3,41,Graduate,0,5990346,True
+K00315,Sneha Kumar,BJP,Varanasi-3,43,Post Graduate,0,26880754,False
+K00316,Sunita Banerjee,BJP,Varanasi-4,46,Graduate,0,865197,False
+K00317,Manoj Joshi,AAP,Varanasi-4,65,Post Graduate,0,6480005,False
+K00318,Vikram Chowdhury,Independent,Varanasi-4,43,Doctorate,1,7224189,False
+K00319,Sunita Patel,DMK,Varanasi-4,53,Graduate,1,4420614,False
+K00320,Ravi Iyer,TMC,Varanasi-4,40,Graduate,0,1695231,False
+K00321,Arjun Singh,BJP,Agra-1,31,Post Graduate,0,10432001,True
+K00322,Asha Chowdhury,SP,Agra-1,75,12th,0,1238127,False
+K00323,Anjali Das,TMC,Agra-1,51,Graduate,8,16031049,False
+K00324,Pooja Sharma,Independent,Agra-1,47,Graduate,5,9851792,False
+K00325,Manoj Reddy,INC,Agra-1,52,Graduate,0,4739505,False
+K00326,Pooja Patel,AAP,Agra-2,58,Graduate,0,11751275,True
+K00327,Sneha Rao,INC,Agra-2,50,Graduate,0,2017826,False
+K00328,Rahul Joshi,TMC,Agra-2,40,Graduate,8,29709846,False
+K00329,Amit Nair,NCP,Agra-2,63,Graduate,0,9990125,False
+K00330,Kiran Sharma,BSP,Agra-2,79,Post Graduate,1,3648466,False
+K00331,Amit Iyer,BJP,Agra-3,52,Post Graduate,0,979319,False
+K00332,Deepak Joshi,DMK,Agra-3,47,Post Graduate,0,1483615,False
+K00333,Kiran Mehta,INC,Agra-3,52,12th,5,10730498,False
+K00334,Manoj Rao,SP,Agra-3,32,Post Graduate,0,2325653,True
+K00335,Pooja Patel,TMC,Agra-3,41,Graduate,0,4469048,False
+K00336,Rohan Mehta,DMK,Agra-4,57,Post Graduate,0,1017390,False
+K00337,Arjun Singh,AAP,Agra-4,49,Graduate,0,37428536,False
+K00338,Vikram Banerjee,BSP,Agra-4,45,Graduate,0,3159073,False
+K00339,Priya Kumar,Independent,Agra-4,45,12th,0,3637435,False
+K00340,Rohan Gupta,SP,Agra-4,52,Post Graduate,8,2089946,False
+K00341,Priya Joshi,BSP,Noida-1,56,Graduate,0,25338617,True
+K00342,Asha Rao,INC,Noida-1,57,Post Graduate,0,105612436,False
+K00343,Priya Rao,DMK,Noida-1,36,Graduate,0,4024072,False
+K00344,Manoj Rao,AAP,Noida-1,65,Graduate,1,3570995,False
+K00345,Amit Banerjee,SP,Noida-1,45,Post Graduate,0,185654,False
+K00346,Vikram Mehta,BSP,Noida-2,61,Doctorate,0,1913850,False
+K00347,Sunita Banerjee,TMC,Noida-2,35,Graduate,0,6840476,False
+K00348,Rahul Nair,AAP,Noida-2,41,Doctorate,0,5177222,False
+K00349,Ravi Joshi,NCP,Noida-2,65,12th,0,4385926,False
+K00350,Manoj Das,BJP,Noida-2,38,Post Graduate,0,5116007,False
+K00351,Amit Das,BJP,Noida-3,50,Doctorate,0,49884506,True
+K00352,Anjali Patel,BSP,Noida-3,42,Doctorate,1,279487,False
+K00353,Sunita Singh,AAP,Noida-3,44,Doctorate,0,20829401,False
+K00354,Anjali Gupta,INC,Noida-3,34,Graduate,2,3176403,False
+K00355,Rohan Singh,NCP,Noida-3,75,Graduate,0,2452382,False
+K00356,Arjun Iyer,BJP,Noida-4,55,Doctorate,0,15238703,False
+K00357,Asha Kumar,DMK,Noida-4,52,Post Graduate,0,2023940,False
+K00358,Kiran Sharma,Independent,Noida-4,52,Doctorate,0,50564847,True
+K00359,Sneha Chowdhury,BSP,Noida-4,47,12th,0,6852227,False
+K00360,Kiran Gupta,NCP,Noida-4,43,Graduate,0,29164265,False
+K00361,Anjali Mehta,TMC,Kolkata-1,65,Post Graduate,0,2294527,False
+K00362,Rohan Chowdhury,SP,Kolkata-1,47,Doctorate,0,3057568,False
+K00363,Arjun Mehta,INC,Kolkata-1,65,Graduate,0,13723761,False
+K00364,Priya Iyer,Independent,Kolkata-1,58,Graduate,0,29636182,False
+K00365,Sneha Joshi,BJP,Kolkata-1,48,Graduate,0,3889989,False
+K00366,Rahul Banerjee,BJP,Kolkata-2,59,Doctorate,0,26483043,False
+K00367,Anjali Chowdhury,DMK,Kolkata-2,44,Graduate,8,18005578,False
+K00368,Vikram Iyer,INC,Kolkata-2,68,Post Graduate,1,55898776,False
+K00369,Rohan Singh,SP,Kolkata-2,57,Graduate,0,21731199,False
+K00370,Rohan Banerjee,NCP,Kolkata-2,58,Graduate,0,4100087,False
+K00371,Asha Mehta,AAP,Kolkata-3,40,Graduate,0,418208,False
+K00372,Sunita Rao,INC,Kolkata-3,58,Graduate,0,6530598,False
+K00373,Priya Patel,BSP,Kolkata-3,49,Post Graduate,3,3760801,False
+K00374,Arjun Iyer,SP,Kolkata-3,37,Graduate,2,17661545,False
+K00375,Deepak Sharma,Independent,Kolkata-3,50,Graduate,1,7782233,False
+K00376,Amit Singh,Independent,Kolkata-4,65,Post Graduate,1,4492609,True
+K00377,Manoj Singh,NCP,Kolkata-4,59,Graduate,0,24779221,False
+K00378,Anjali Nair,AAP,Kolkata-4,55,Post Graduate,5,5606320,False
+K00379,Anjali Singh,INC,Kolkata-4,56,Doctorate,2,2311104,False
+K00380,Sunita Singh,BJP,Kolkata-4,52,Doctorate,2,774895,False
+K00381,Asha Kumar,BJP,Howrah-1,55,Graduate,0,49272635,False
+K00382,Rohan Singh,Independent,Howrah-1,31,Post Graduate,0,5968213,False
+K00383,Kiran Rao,INC,Howrah-1,60,Graduate,0,8846265,False
+K00384,Vikram Das,TMC,Howrah-1,45,10th,0,10034272,False
+K00385,Vikram Joshi,SP,Howrah-1,49,Doctorate,2,1783919,False
+K00386,Vikram Gupta,INC,Howrah-2,54,Post Graduate,1,872693,False
+K00387,Arjun Kumar,BJP,Howrah-2,38,Post Graduate,0,9606816,False
+K00388,Sunita Sharma,DMK,Howrah-2,55,12th,0,35721161,False
+K00389,Manoj Singh,Independent,Howrah-2,43,Graduate,5,12519081,False
+K00390,Arjun Joshi,TMC,Howrah-2,36,Graduate,0,1279268,False
+K00391,Priya Gupta,DMK,Howrah-3,59,Graduate,8,3319474,False
+K00392,Amit Reddy,BSP,Howrah-3,43,Doctorate,1,354209,True
+K00393,Priya Das,TMC,Howrah-3,54,Graduate,0,18117123,False
+K00394,Rohan Iyer,INC,Howrah-3,70,Post Graduate,0,2030561,False
+K00395,Sneha Joshi,SP,Howrah-3,35,Graduate,1,27822603,False
+K00396,Sunita Kumar,NCP,Howrah-4,53,Post Graduate,0,1818475,False
+K00397,Rohan Banerjee,TMC,Howrah-4,45,Post Graduate,0,6851078,False
+K00398,Vikram Mehta,INC,Howrah-4,72,Graduate,0,62620235,True
+K00399,Rahul Iyer,BJP,Howrah-4,63,Post Graduate,0,11643807,False
+K00400,Pooja Rao,Independent,Howrah-4,51,Doctorate,0,29684370,False
+K00401,Sneha Banerjee,DMK,Siliguri-1,50,Graduate,1,2990058,False
+K00402,Kiran Singh,TMC,Siliguri-1,62,Graduate,0,13080652,False
+K00403,Priya Joshi,INC,Siliguri-1,39,Post Graduate,0,4190131,True
+K00404,Anjali Rao,BJP,Siliguri-1,42,Post Graduate,0,4520730,False
+K00405,Ravi Nair,BSP,Siliguri-1,68,Post Graduate,8,12237984,True
+K00406,Vikram Kumar,DMK,Siliguri-2,54,Post Graduate,0,11407544,False
+K00407,Manoj Joshi,BJP,Siliguri-2,65,Graduate,0,11487005,False
+K00408,Anjali Gupta,TMC,Siliguri-2,64,Doctorate,0,3629149,True
+K00409,Rohan Gupta,Independent,Siliguri-2,72,Graduate,0,40073129,True
+K00410,Vikram Rao,SP,Siliguri-2,36,Graduate,0,1170788,False
+K00411,Sneha Mehta,BSP,Siliguri-3,53,Doctorate,0,540921,False
+K00412,Manoj Iyer,SP,Siliguri-3,63,Post Graduate,2,4183133,True
+K00413,Manoj Kumar,Independent,Siliguri-3,57,Graduate,0,2696563,False
+K00414,Priya Mehta,INC,Siliguri-3,39,Post Graduate,0,5039727,False
+K00415,Vikram Chowdhury,AAP,Siliguri-3,51,Doctorate,0,53969362,True
+K00416,Amit Mehta,INC,Siliguri-4,61,Graduate,0,14820796,False
+K00417,Kiran Mehta,BJP,Siliguri-4,41,10th,1,7979046,False
+K00418,Rahul Iyer,BSP,Siliguri-4,55,Post Graduate,0,6311958,False
+K00419,Sneha Banerjee,DMK,Siliguri-4,50,Post Graduate,0,4135935,False
+K00420,Sunita Patel,SP,Siliguri-4,55,Post Graduate,0,4043224,True
+K00421,Kiran Kumar,Independent,Durgapur-1,62,Graduate,0,1897157,False
+K00422,Pooja Chowdhury,NCP,Durgapur-1,46,Graduate,0,5292358,False
+K00423,Ravi Singh,TMC,Durgapur-1,25,Graduate,0,17009099,True
+K00424,Sneha Das,BJP,Durgapur-1,54,12th,0,6037679,False
+K00425,Priya Patel,AAP,Durgapur-1,34,12th,1,2709383,False
+K00426,Deepak Joshi,Independent,Durgapur-2,39,Post Graduate,0,11264561,False
+K00427,Priya Das,TMC,Durgapur-2,57,Doctorate,0,5145669,False
+K00428,Deepak Iyer,BSP,Durgapur-2,43,Graduate,0,3577431,True
+K00429,Anjali Gupta,BJP,Durgapur-2,43,Graduate,2,1879792,False
+K00430,Kiran Singh,AAP,Durgapur-2,63,10th,0,171850772,False
+K00431,Anjali Kumar,NCP,Durgapur-3,56,Post Graduate,0,13270277,False
+K00432,Ravi Nair,SP,Durgapur-3,56,Graduate,0,56794852,False
+K00433,Kiran Gupta,BSP,Durgapur-3,40,Graduate,0,120842,False
+K00434,Rohan Nair,INC,Durgapur-3,47,Graduate,0,73515885,False
+K00435,Amit Chowdhury,DMK,Durgapur-3,58,Doctorate,0,78197177,False
+K00436,Ravi Singh,BJP,Durgapur-4,67,Graduate,0,5804343,False
+K00437,Priya Reddy,AAP,Durgapur-4,44,Post Graduate,0,1907016,False
+K00438,Arjun Sharma,INC,Durgapur-4,64,10th,0,1984992,False
+K00439,Ravi Das,TMC,Durgapur-4,55,Graduate,2,3882308,True
+K00440,Deepak Gupta,NCP,Durgapur-4,48,12th,0,10478542,False
+K00441,Kiran Singh,DMK,Ahmedabad-1,61,Graduate,0,4871008,False
+K00442,Sunita Rao,AAP,Ahmedabad-1,41,Graduate,0,5352013,False
+K00443,Arjun Singh,TMC,Ahmedabad-1,47,Graduate,1,23985964,True
+K00444,Anjali Joshi,SP,Ahmedabad-1,31,Graduate,1,6995987,False
+K00445,Asha Rao,NCP,Ahmedabad-1,72,Post Graduate,1,21945276,False
+K00446,Sunita Kumar,SP,Ahmedabad-2,60,Graduate,0,4200155,False
+K00447,Ravi Chowdhury,TMC,Ahmedabad-2,57,Graduate,1,1793601,False
+K00448,Sneha Sharma,DMK,Ahmedabad-2,61,Graduate,3,3090729,False
+K00449,Sneha Sharma,INC,Ahmedabad-2,48,Graduate,0,3189124,False
+K00450,Anjali Rao,BSP,Ahmedabad-2,55,Graduate,0,14492997,False
+K00451,Sneha Gupta,NCP,Ahmedabad-3,74,Graduate,0,1345407,False
+K00452,Rahul Nair,INC,Ahmedabad-3,54,Graduate,0,7375023,True
+K00453,Deepak Gupta,DMK,Ahmedabad-3,51,Graduate,8,9704335,False
+K00454,Ravi Chowdhury,BJP,Ahmedabad-3,64,Post Graduate,0,34692866,False
+K00455,Pooja Iyer,SP,Ahmedabad-3,49,Post Graduate,0,19412912,False
+K00456,Amit Banerjee,TMC,Ahmedabad-4,52,Graduate,0,3809509,False
+K00457,Pooja Das,SP,Ahmedabad-4,58,Graduate,0,8231964,False
+K00458,Deepak Banerjee,NCP,Ahmedabad-4,43,Post Graduate,2,11703225,False
+K00459,Kiran Mehta,AAP,Ahmedabad-4,53,Graduate,1,29885285,False
+K00460,Anjali Chowdhury,BJP,Ahmedabad-4,48,Graduate,2,424276,False
+K00461,Vikram Das,AAP,Surat-1,28,Post Graduate,0,2445674,False
+K00462,Sneha Reddy,SP,Surat-1,46,Post Graduate,0,19589320,False
+K00463,Rahul Rao,INC,Surat-1,61,Graduate,0,10970864,True
+K00464,Pooja Joshi,BSP,Surat-1,45,Graduate,0,3159987,True
+K00465,Deepak Gupta,Independent,Surat-1,69,Graduate,0,3544768,False
+K00466,Rohan Mehta,BJP,Surat-2,35,Post Graduate,2,27153290,True
+K00467,Rahul Kumar,Independent,Surat-2,56,Graduate,0,5222807,False
+K00468,Deepak Das,AAP,Surat-2,56,Graduate,0,1929774,False
+K00469,Amit Singh,DMK,Surat-2,46,Graduate,0,7000607,True
+K00470,Ravi Patel,TMC,Surat-2,47,Post Graduate,2,10655045,False
+K00471,Asha Nair,INC,Surat-3,61,Post Graduate,0,936801,False
+K00472,Pooja Chowdhury,AAP,Surat-3,30,Doctorate,0,6347687,False
+K00473,Arjun Iyer,TMC,Surat-3,57,Graduate,2,6806960,True
+K00474,Vikram Iyer,BJP,Surat-3,59,Graduate,0,12835162,False
+K00475,Rahul Das,BSP,Surat-3,56,Post Graduate,0,3938714,True
+K00476,Vikram Kumar,BSP,Surat-4,41,Post Graduate,0,6551318,False
+K00477,Pooja Kumar,NCP,Surat-4,64,10th,0,4608921,False
+K00478,Amit Joshi,AAP,Surat-4,54,Post Graduate,0,4962995,False
+K00479,Kiran Chowdhury,BJP,Surat-4,46,Post Graduate,1,4791273,False
+K00480,Anjali Gupta,INC,Surat-4,49,Graduate,2,9324816,False
+K00481,Deepak Reddy,BJP,Vadodara-1,57,10th,1,3846173,False
+K00482,Sunita Banerjee,AAP,Vadodara-1,61,Graduate,0,2717486,False
+K00483,Kiran Rao,BSP,Vadodara-1,56,Graduate,0,58799198,False
+K00484,Vikram Rao,TMC,Vadodara-1,31,Graduate,0,3666882,False
+K00485,Sunita Iyer,NCP,Vadodara-1,40,Graduate,1,1344934,False
+K00486,Kiran Reddy,SP,Vadodara-2,56,Graduate,0,17346068,True
+K00487,Priya Das,BJP,Vadodara-2,50,Post Graduate,1,4327634,False
+K00488,Anjali Rao,DMK,Vadodara-2,52,Graduate,8,2936607,False
+K00489,Rahul Banerjee,AAP,Vadodara-2,52,Post Graduate,0,24408495,False
+K00490,Sneha Mehta,Independent,Vadodara-2,55,Post Graduate,0,24460286,False
+K00491,Rohan Joshi,BJP,Vadodara-3,62,12th,2,10338883,False
+K00492,Deepak Gupta,NCP,Vadodara-3,59,Graduate,0,177378189,False
+K00493,Priya Singh,SP,Vadodara-3,44,Post Graduate,1,498908,False
+K00494,Manoj Reddy,DMK,Vadodara-3,61,Post Graduate,0,7268150,False
+K00495,Deepak Gupta,AAP,Vadodara-3,69,Graduate,0,29781227,True
+K00496,Rahul Das,AAP,Vadodara-4,40,Post Graduate,0,14912812,False
+K00497,Arjun Nair,Independent,Vadodara-4,49,Graduate,0,1800868,True
+K00498,Sneha Joshi,TMC,Vadodara-4,56,12th,0,6493686,False
+K00499,Pooja Patel,SP,Vadodara-4,52,Graduate,0,48815886,True
+K00500,Deepak Patel,INC,Vadodara-4,50,Doctorate,0,4241113,False
+K00501,Vikram Nair,SP,Rajkot-1,45,Graduate,0,5136344,False
+K00502,Anjali Nair,Independent,Rajkot-1,49,12th,0,366512,False
+K00503,Asha Gupta,BJP,Rajkot-1,35,12th,0,14477014,False
+K00504,Rohan Kumar,NCP,Rajkot-1,49,Doctorate,0,5438037,False
+K00505,Priya Rao,TMC,Rajkot-1,48,Doctorate,2,2027262,False
+K00506,Anjali Gupta,INC,Rajkot-2,57,Graduate,0,187657190,False
+K00507,Sunita Singh,SP,Rajkot-2,50,Graduate,0,12900054,False
+K00508,Deepak Rao,TMC,Rajkot-2,42,Post Graduate,0,7642687,True
+K00509,Manoj Nair,DMK,Rajkot-2,63,Post Graduate,0,5541108,False
+K00510,Deepak Sharma,NCP,Rajkot-2,47,Graduate,0,2306482,True
+K00511,Sneha Rao,INC,Rajkot-3,32,10th,3,687366,False
+K00512,Rahul Reddy,NCP,Rajkot-3,60,Post Graduate,0,39456954,False
+K00513,Priya Gupta,SP,Rajkot-3,46,Doctorate,0,6522908,False
+K00514,Deepak Rao,DMK,Rajkot-3,53,Graduate,0,2423674,False
+K00515,Ravi Mehta,BSP,Rajkot-3,49,Post Graduate,0,1692047,False
+K00516,Arjun Gupta,AAP,Rajkot-4,42,Doctorate,0,3616634,False
+K00517,Deepak Kumar,TMC,Rajkot-4,50,Post Graduate,0,5955986,False
+K00518,Sunita Sharma,NCP,Rajkot-4,57,Doctorate,0,4330524,False
+K00519,Manoj Nair,BSP,Rajkot-4,40,Post Graduate,0,33740589,False
+K00520,Anjali Nair,DMK,Rajkot-4,54,12th,2,14456000,False
+K00521,Asha Rao,BSP,Jaipur-1,45,12th,3,8623094,False
+K00522,Arjun Gupta,NCP,Jaipur-1,52,Graduate,0,2046784,False
+K00523,Rahul Kumar,BJP,Jaipur-1,51,Graduate,0,4112115,False
+K00524,Vikram Mehta,Independent,Jaipur-1,81,12th,0,2866646,False
+K00525,Vikram Patel,AAP,Jaipur-1,53,Graduate,0,1416957,False
+K00526,Kiran Sharma,INC,Jaipur-2,61,Post Graduate,2,28731990,False
+K00527,Ravi Joshi,SP,Jaipur-2,44,Post Graduate,0,54184430,False
+K00528,Sunita Reddy,TMC,Jaipur-2,41,Post Graduate,1,1298911,False
+K00529,Deepak Sharma,DMK,Jaipur-2,67,Graduate,2,3893969,False
+K00530,Pooja Patel,NCP,Jaipur-2,31,Post Graduate,0,2188784,False
+K00531,Vikram Banerjee,TMC,Jaipur-3,66,Graduate,1,620797,False
+K00532,Manoj Singh,BSP,Jaipur-3,41,Graduate,0,37007429,False
+K00533,Deepak Das,NCP,Jaipur-3,39,Graduate,3,4075902,False
+K00534,Pooja Das,BJP,Jaipur-3,41,Post Graduate,0,3081097,False
+K00535,Sneha Singh,SP,Jaipur-3,66,Graduate,0,33078330,True
+K00536,Deepak Joshi,TMC,Jaipur-4,50,Graduate,0,2131038,False
+K00537,Priya Reddy,AAP,Jaipur-4,62,Graduate,0,44024535,False
+K00538,Asha Reddy,INC,Jaipur-4,72,Graduate,0,2955786,False
+K00539,Manoj Singh,NCP,Jaipur-4,46,Graduate,0,5289382,False
+K00540,Pooja Mehta,SP,Jaipur-4,50,Post Graduate,0,9175394,False
+K00541,Sunita Kumar,DMK,Jodhpur-1,51,Doctorate,0,3331674,False
+K00542,Manoj Sharma,AAP,Jodhpur-1,32,Graduate,3,3397384,False
+K00543,Rohan Chowdhury,BJP,Jodhpur-1,59,Post Graduate,0,3492172,False
+K00544,Anjali Kumar,BSP,Jodhpur-1,35,Post Graduate,0,780616,False
+K00545,Pooja Kumar,SP,Jodhpur-1,38,10th,0,6490343,False
+K00546,Deepak Das,DMK,Jodhpur-2,69,Post Graduate,2,7463896,True
+K00547,Rahul Gupta,INC,Jodhpur-2,32,Graduate,0,2661829,True
+K00548,Pooja Iyer,SP,Jodhpur-2,38,Graduate,5,1750564,False
+K00549,Rahul Chowdhury,BSP,Jodhpur-2,30,Post Graduate,0,14250226,False
+K00550,Deepak Kumar,Independent,Jodhpur-2,50,12th,0,1276185,True
+K00551,Amit Chowdhury,AAP,Jodhpur-3,25,Graduate,8,3716134,False
+K00552,Rohan Singh,TMC,Jodhpur-3,55,Doctorate,0,17353494,False
+K00553,Sneha Rao,BJP,Jodhpur-3,38,Graduate,0,10279981,False
+K00554,Asha Patel,SP,Jodhpur-3,51,Post Graduate,0,2576603,False
+K00555,Ravi Sharma,DMK,Jodhpur-3,54,12th,0,9899562,False
+K00556,Pooja Kumar,BSP,Jodhpur-4,48,12th,1,7757400,False
+K00557,Manoj Banerjee,NCP,Jodhpur-4,58,Graduate,5,3333410,False
+K00558,Rohan Gupta,INC,Jodhpur-4,50,Doctorate,8,1173652,False
+K00559,Deepak Chowdhury,DMK,Jodhpur-4,64,Post Graduate,0,5041368,False
+K00560,Amit Sharma,Independent,Jodhpur-4,36,Doctorate,0,1802048,False
+K00561,Sneha Joshi,SP,Udaipur-1,45,12th,0,32177226,False
+K00562,Asha Nair,INC,Udaipur-1,81,Doctorate,2,3795648,False
+K00563,Kiran Reddy,BJP,Udaipur-1,51,Graduate,2,7812380,False
+K00564,Manoj Gupta,AAP,Udaipur-1,56,Graduate,5,37486654,False
+K00565,Priya Banerjee,NCP,Udaipur-1,49,Doctorate,2,4427495,False
+K00566,Sneha Chowdhury,BSP,Udaipur-2,64,12th,3,4131737,False
+K00567,Kiran Joshi,DMK,Udaipur-2,58,Graduate,0,117888,False
+K00568,Arjun Mehta,INC,Udaipur-2,73,Graduate,1,3937912,False
+K00569,Sunita Reddy,Independent,Udaipur-2,43,Graduate,0,9149117,False
+K00570,Anjali Kumar,TMC,Udaipur-2,64,Post Graduate,0,2700576,False
+K00571,Rohan Iyer,BJP,Udaipur-3,62,Graduate,0,10501315,False
+K00572,Manoj Kumar,SP,Udaipur-3,57,Post Graduate,0,13665100,False
+K00573,Rohan Patel,Independent,Udaipur-3,60,10th,0,14368929,False
+K00574,Vikram Banerjee,BSP,Udaipur-3,58,Graduate,0,9670133,True
+K00575,Priya Nair,INC,Udaipur-3,51,Graduate,0,1712668,False
+K00576,Rahul Patel,Independent,Udaipur-4,33,Graduate,0,645431,False
+K00577,Asha Nair,BJP,Udaipur-4,43,10th,2,3611558,False
+K00578,Ravi Patel,INC,Udaipur-4,52,Post Graduate,0,11889778,False
+K00579,Sneha Joshi,BSP,Udaipur-4,52,Graduate,1,1863160,False
+K00580,Priya Kumar,AAP,Udaipur-4,50,Graduate,0,5999978,False
+K00581,Anjali Iyer,AAP,Kota-1,34,Graduate,0,1999600,True
+K00582,Amit Reddy,BJP,Kota-1,61,Post Graduate,3,2376461,False
+K00583,Kiran Reddy,NCP,Kota-1,61,Graduate,0,4189223,True
+K00584,Arjun Nair,TMC,Kota-1,35,Graduate,0,4536781,False
+K00585,Ravi Chowdhury,BSP,Kota-1,52,Graduate,0,7729772,False
+K00586,Sunita Singh,AAP,Kota-2,42,Graduate,3,8331451,False
+K00587,Vikram Iyer,SP,Kota-2,25,Post Graduate,0,6844831,False
+K00588,Kiran Banerjee,BSP,Kota-2,44,Graduate,0,6891644,False
+K00589,Asha Banerjee,NCP,Kota-2,60,Graduate,2,1520256,True
+K00590,Kiran Reddy,BJP,Kota-2,54,Graduate,0,31980004,False
+K00591,Sunita Banerjee,BSP,Kota-3,56,Graduate,0,2781072,False
+K00592,Asha Chowdhury,INC,Kota-3,31,Post Graduate,0,5196474,False
+K00593,Sunita Kumar,DMK,Kota-3,46,Post Graduate,1,6570242,False
+K00594,Manoj Kumar,TMC,Kota-3,45,Post Graduate,0,5498537,False
+K00595,Rohan Das,BJP,Kota-3,48,Doctorate,2,6594508,False
+K00596,Pooja Banerjee,Independent,Kota-4,42,Graduate,0,23283699,False
+K00597,Rohan Patel,BSP,Kota-4,37,Post Graduate,2,1857913,False
+K00598,Vikram Kumar,SP,Kota-4,63,Post Graduate,3,2274255,True
+K00599,Manoj Mehta,INC,Kota-4,61,Post Graduate,0,4508236,False
+K00600,Vikram Banerjee,AAP,Kota-4,51,Graduate,0,70858773,True
+K00601,Rahul Joshi,SP,Kochi-1,67,Post Graduate,0,17967587,False
+K00602,Vikram Nair,TMC,Kochi-1,57,Graduate,0,1864819,False
+K00603,Pooja Gupta,BSP,Kochi-1,52,Graduate,0,6965712,False
+K00604,Sunita Patel,DMK,Kochi-1,54,Graduate,0,3722522,False
+K00605,Rohan Patel,Independent,Kochi-1,50,Post Graduate,5,3001893,False
+K00606,Rahul Das,DMK,Kochi-2,25,Graduate,0,5509353,True
+K00607,Pooja Rao,SP,Kochi-2,45,Graduate,0,1102481,True
+K00608,Arjun Banerjee,AAP,Kochi-2,65,Post Graduate,2,3555052,True
+K00609,Vikram Mehta,TMC,Kochi-2,58,12th,0,1226305,False
+K00610,Deepak Rao,BJP,Kochi-2,48,Graduate,0,8663791,True
+K00611,Sneha Banerjee,AAP,Kochi-3,34,Graduate,0,15607413,False
+K00612,Manoj Mehta,DMK,Kochi-3,66,Graduate,0,15449404,True
+K00613,Kiran Reddy,SP,Kochi-3,38,Graduate,1,45602579,False
+K00614,Arjun Rao,TMC,Kochi-3,54,Graduate,0,4445088,False
+K00615,Pooja Banerjee,NCP,Kochi-3,46,Post Graduate,0,4361685,False
+K00616,Sunita Patel,BSP,Kochi-4,32,Graduate,2,6291587,False
+K00617,Rahul Mehta,AAP,Kochi-4,49,Graduate,0,1479693,False
+K00618,Anjali Joshi,NCP,Kochi-4,60,12th,0,234954,False
+K00619,Sunita Joshi,Independent,Kochi-4,51,Graduate,5,3829488,False
+K00620,Ravi Iyer,BJP,Kochi-4,74,Doctorate,0,7139918,False
+K00621,Rohan Kumar,AAP,Thiruvananthapuram-1,59,Graduate,0,13710073,True
+K00622,Anjali Nair,DMK,Thiruvananthapuram-1,49,Graduate,0,6919853,False
+K00623,Anjali Kumar,INC,Thiruvananthapuram-1,53,Graduate,0,40375196,False
+K00624,Deepak Mehta,BJP,Thiruvananthapuram-1,62,Doctorate,8,930168,True
+K00625,Priya Das,BSP,Thiruvananthapuram-1,53,Graduate,1,7401099,False
+K00626,Sunita Kumar,NCP,Thiruvananthapuram-2,26,Graduate,0,1595702,False
+K00627,Rahul Gupta,INC,Thiruvananthapuram-2,50,Post Graduate,1,636573,False
+K00628,Sunita Nair,Independent,Thiruvananthapuram-2,44,Post Graduate,5,5108823,False
+K00629,Priya Patel,AAP,Thiruvananthapuram-2,52,Graduate,5,7274685,False
+K00630,Sneha Iyer,BSP,Thiruvananthapuram-2,49,10th,0,2315134,False
+K00631,Pooja Banerjee,SP,Thiruvananthapuram-3,47,Post Graduate,0,3566054,False
+K00632,Rohan Joshi,AAP,Thiruvananthapuram-3,56,12th,0,33831171,False
+K00633,Asha Singh,Independent,Thiruvananthapuram-3,57,Graduate,0,23728650,False
+K00634,Ravi Rao,TMC,Thiruvananthapuram-3,39,Graduate,0,16242318,False
+K00635,Anjali Patel,BSP,Thiruvananthapuram-3,49,Post Graduate,0,9882399,False
+K00636,Amit Singh,TMC,Thiruvananthapuram-4,55,Post Graduate,0,12066025,True
+K00637,Asha Patel,SP,Thiruvananthapuram-4,42,Post Graduate,0,81523374,False
+K00638,Ravi Rao,Independent,Thiruvananthapuram-4,52,Graduate,0,11524023,False
+K00639,Pooja Joshi,INC,Thiruvananthapuram-4,74,Post Graduate,0,5437553,True
+K00640,Priya Banerjee,BSP,Thiruvananthapuram-4,61,Graduate,0,2414668,False
+K00641,Rahul Kumar,INC,Kozhikode-1,27,Graduate,0,39565330,False
+K00642,Amit Joshi,DMK,Kozhikode-1,49,Graduate,0,1086220,False
+K00643,Deepak Mehta,SP,Kozhikode-1,47,Post Graduate,5,11583813,True
+K00644,Ravi Banerjee,AAP,Kozhikode-1,52,Graduate,0,8296937,True
+K00645,Amit Chowdhury,Independent,Kozhikode-1,74,Post Graduate,0,916093,False
+K00646,Asha Reddy,AAP,Kozhikode-2,53,Post Graduate,0,5687564,False
+K00647,Sunita Kumar,TMC,Kozhikode-2,56,Graduate,1,5525543,False
+K00648,Anjali Nair,BJP,Kozhikode-2,51,Graduate,1,1070545,False
+K00649,Deepak Banerjee,DMK,Kozhikode-2,59,12th,0,1003239,False
+K00650,Amit Rao,BSP,Kozhikode-2,54,Doctorate,1,1127967,False
+K00651,Pooja Das,NCP,Kozhikode-3,48,Post Graduate,0,5384735,False
+K00652,Asha Patel,DMK,Kozhikode-3,58,Post Graduate,0,4115534,False
+K00653,Anjali Chowdhury,SP,Kozhikode-3,38,Graduate,0,11826696,False
+K00654,Asha Iyer,INC,Kozhikode-3,57,Graduate,0,13637508,False
+K00655,Kiran Chowdhury,BSP,Kozhikode-3,47,Graduate,0,4945692,False
+K00656,Arjun Patel,INC,Kozhikode-4,43,Doctorate,0,8374415,True
+K00657,Sunita Sharma,BSP,Kozhikode-4,60,Doctorate,8,4258419,False
+K00658,Pooja Kumar,NCP,Kozhikode-4,37,Post Graduate,1,670488,False
+K00659,Asha Iyer,DMK,Kozhikode-4,31,12th,1,19970521,False
+K00660,Rohan Singh,TMC,Kozhikode-4,56,Post Graduate,0,691418,False
+K00661,Anjali Mehta,INC,Ludhiana-1,38,12th,0,13936102,True
+K00662,Sneha Das,Independent,Ludhiana-1,35,12th,0,5622844,False
+K00663,Rahul Mehta,DMK,Ludhiana-1,47,Graduate,5,13153704,True
+K00664,Vikram Chowdhury,AAP,Ludhiana-1,35,12th,0,71015030,False
+K00665,Pooja Kumar,BJP,Ludhiana-1,69,Graduate,0,6172797,False
+K00666,Deepak Iyer,BJP,Ludhiana-2,60,12th,5,3694117,False
+K00667,Ravi Chowdhury,BSP,Ludhiana-2,49,12th,1,17861268,False
+K00668,Priya Patel,INC,Ludhiana-2,48,Graduate,0,100000,True
+K00669,Manoj Kumar,AAP,Ludhiana-2,38,Graduate,0,8646986,False
+K00670,Manoj Rao,DMK,Ludhiana-2,47,Graduate,0,9597798,False
+K00671,Ravi Patel,NCP,Ludhiana-3,25,Graduate,2,6980510,False
+K00672,Anjali Singh,TMC,Ludhiana-3,46,Post Graduate,0,18718931,False
+K00673,Manoj Patel,INC,Ludhiana-3,59,Graduate,0,25400000,False
+K00674,Pooja Joshi,Independent,Ludhiana-3,53,Graduate,0,21174064,False
+K00675,Arjun Chowdhury,BJP,Ludhiana-3,46,Post Graduate,0,4847727,False
+K00676,Manoj Sharma,TMC,Ludhiana-4,59,Post Graduate,0,193710,False
+K00677,Sneha Das,BSP,Ludhiana-4,40,Graduate,0,1313790,False
+K00678,Manoj Joshi,DMK,Ludhiana-4,65,12th,2,15661594,False
+K00679,Arjun Singh,NCP,Ludhiana-4,33,Doctorate,0,2233691,True
+K00680,Asha Chowdhury,AAP,Ludhiana-4,61,Graduate,0,11450411,False
+K00681,Kiran Patel,AAP,Amritsar-1,60,10th,2,3886421,False
+K00682,Deepak Sharma,NCP,Amritsar-1,68,Doctorate,0,576002,False
+K00683,Amit Mehta,Independent,Amritsar-1,52,Post Graduate,1,1884653,False
+K00684,Anjali Rao,INC,Amritsar-1,57,Graduate,0,2570988,False
+K00685,Rahul Joshi,DMK,Amritsar-1,59,Graduate,0,763749,True
+K00686,Vikram Nair,BJP,Amritsar-2,62,Graduate,0,15315478,False
+K00687,Manoj Mehta,TMC,Amritsar-2,73,Post Graduate,0,307164539,False
+K00688,Anjali Rao,Independent,Amritsar-2,63,Doctorate,0,19661878,False
+K00689,Sneha Patel,BSP,Amritsar-2,54,Doctorate,1,10293940,True
+K00690,Kiran Joshi,SP,Amritsar-2,47,12th,2,12988532,False
+K00691,Pooja Sharma,AAP,Amritsar-3,45,Graduate,0,1289544,False
+K00692,Rahul Gupta,BJP,Amritsar-3,63,Post Graduate,0,18234540,False
+K00693,Priya Singh,INC,Amritsar-3,51,12th,0,12856552,False
+K00694,Amit Rao,DMK,Amritsar-3,56,Post Graduate,1,2689448,False
+K00695,Arjun Singh,NCP,Amritsar-3,48,Post Graduate,2,4910670,False
+K00696,Sunita Das,BJP,Amritsar-4,51,Graduate,0,9734956,True
+K00697,Asha Joshi,SP,Amritsar-4,61,Graduate,0,11384536,True
+K00698,Ravi Patel,DMK,Amritsar-4,72,Post Graduate,2,5676908,False
+K00699,Rohan Reddy,NCP,Amritsar-4,57,Post Graduate,0,2720033,True
+K00700,Asha Chowdhury,INC,Amritsar-4,41,10th,2,3745871,True
+K00701,Rahul Banerjee,DMK,Jalandhar-1,46,Doctorate,0,1755723,False
+K00702,Anjali Reddy,Independent,Jalandhar-1,56,Graduate,1,15445298,False
+K00703,Pooja Singh,BJP,Jalandhar-1,59,Graduate,0,912786,True
+K00704,Vikram Patel,NCP,Jalandhar-1,52,Graduate,0,2346196,False
+K00705,Priya Reddy,INC,Jalandhar-1,40,Post Graduate,0,928688,False
+K00706,Vikram Patel,Independent,Jalandhar-2,65,Graduate,0,1742840,True
+K00707,Sneha Iyer,BJP,Jalandhar-2,46,Graduate,0,585624,False
+K00708,Kiran Reddy,TMC,Jalandhar-2,47,Graduate,0,4358693,False
+K00709,Sunita Banerjee,AAP,Jalandhar-2,53,Post Graduate,0,10348142,False
+K00710,Rahul Banerjee,DMK,Jalandhar-2,38,Post Graduate,0,10609481,True
+K00711,Manoj Chowdhury,Independent,Jalandhar-3,47,Post Graduate,0,7559870,True
+K00712,Vikram Sharma,INC,Jalandhar-3,46,Post Graduate,8,616006,False
+K00713,Pooja Rao,BJP,Jalandhar-3,52,Graduate,0,2010624,False
+K00714,Sneha Nair,SP,Jalandhar-3,68,Graduate,1,2428127,True
+K00715,Priya Rao,AAP,Jalandhar-3,31,Graduate,0,1609824,True
+K00716,Pooja Patel,TMC,Jalandhar-4,42,Graduate,0,2277024,False
+K00717,Manoj Chowdhury,Independent,Jalandhar-4,41,Graduate,0,1461326,False
+K00718,Arjun Nair,DMK,Jalandhar-4,52,Post Graduate,0,9017848,True
+K00719,Amit Iyer,AAP,Jalandhar-4,45,Post Graduate,0,3786105,False
+K00720,Anjali Rao,BSP,Jalandhar-4,68,Post Graduate,0,27291446,False
+K00721,Priya Banerjee,NCP,Hyderabad-1,60,Post Graduate,1,1211364,True
+K00722,Rohan Kumar,SP,Hyderabad-1,34,Graduate,0,17964013,False
+K00723,Rohan Gupta,BJP,Hyderabad-1,63,Graduate,5,7670895,False
+K00724,Sunita Iyer,INC,Hyderabad-1,49,Graduate,0,7723911,False
+K00725,Rohan Kumar,Independent,Hyderabad-1,63,Post Graduate,0,24654425,False
+K00726,Rohan Rao,INC,Hyderabad-2,52,Graduate,0,3864746,False
+K00727,Rahul Sharma,TMC,Hyderabad-2,58,Post Graduate,0,4971099,False
+K00728,Priya Sharma,Independent,Hyderabad-2,47,Doctorate,0,9309893,False
+K00729,Rahul Rao,AAP,Hyderabad-2,51,Graduate,0,4296621,True
+K00730,Rohan Banerjee,BJP,Hyderabad-2,55,Post Graduate,0,6896738,True
+K00731,Vikram Mehta,INC,Hyderabad-3,47,Post Graduate,1,667603,False
+K00732,Kiran Joshi,TMC,Hyderabad-3,52,Graduate,0,4814859,False
+K00733,Arjun Patel,BJP,Hyderabad-3,37,Graduate,1,13211789,False
+K00734,Ravi Kumar,Independent,Hyderabad-3,55,12th,0,11277546,False
+K00735,Ravi Singh,NCP,Hyderabad-3,43,12th,0,2196326,False
+K00736,Sunita Sharma,INC,Hyderabad-4,70,Graduate,0,3645323,False
+K00737,Vikram Reddy,AAP,Hyderabad-4,45,Doctorate,5,7357463,False
+K00738,Sunita Kumar,SP,Hyderabad-4,56,10th,2,9706349,False
+K00739,Sneha Mehta,TMC,Hyderabad-4,52,Graduate,0,14153707,False
+K00740,Rahul Das,DMK,Hyderabad-4,67,12th,1,13068840,False
+K00741,Sneha Mehta,AAP,Warangal-1,43,Doctorate,0,5662178,False
+K00742,Arjun Nair,Independent,Warangal-1,53,Post Graduate,0,14598182,False
+K00743,Rahul Banerjee,BJP,Warangal-1,43,Graduate,3,895056,False
+K00744,Rahul Singh,DMK,Warangal-1,64,Graduate,0,12404162,True
+K00745,Vikram Joshi,SP,Warangal-1,37,Graduate,1,13267051,False
+K00746,Vikram Banerjee,SP,Warangal-2,34,Graduate,0,382242,False
+K00747,Priya Patel,INC,Warangal-2,45,Graduate,0,16476806,False
+K00748,Rahul Chowdhury,Independent,Warangal-2,44,Post Graduate,0,5418453,False
+K00749,Ravi Reddy,TMC,Warangal-2,46,Graduate,0,35205807,False
+K00750,Anjali Singh,BSP,Warangal-2,44,Doctorate,0,2841761,False
+K00751,Ravi Rao,AAP,Warangal-3,60,Post Graduate,2,8385936,False
+K00752,Arjun Rao,BSP,Warangal-3,44,Post Graduate,0,8276852,False
+K00753,Kiran Kumar,BJP,Warangal-3,40,Graduate,0,1843112,False
+K00754,Ravi Das,SP,Warangal-3,28,Graduate,0,10774397,True
+K00755,Arjun Patel,NCP,Warangal-3,57,12th,0,10978443,False
+K00756,Sneha Banerjee,INC,Warangal-4,39,12th,0,915857,False
+K00757,Deepak Banerjee,NCP,Warangal-4,49,Post Graduate,0,1781865,False
+K00758,Arjun Kumar,BSP,Warangal-4,36,Graduate,2,5491058,False
+K00759,Ravi Patel,AAP,Warangal-4,62,Post Graduate,2,10094429,False
+K00760,Rohan Singh,SP,Warangal-4,47,Post Graduate,0,42634586,False
+K00761,Priya Rao,BJP,Nizamabad-1,57,Doctorate,0,1616387,False
+K00762,Sunita Mehta,DMK,Nizamabad-1,40,Graduate,0,14174574,False
+K00763,Rahul Rao,AAP,Nizamabad-1,62,Post Graduate,0,17787219,False
+K00764,Vikram Reddy,Independent,Nizamabad-1,48,Post Graduate,0,9364682,False
+K00765,Anjali Iyer,BSP,Nizamabad-1,49,Post Graduate,0,3609112,False
+K00766,Asha Banerjee,AAP,Nizamabad-2,36,Doctorate,0,11755327,True
+K00767,Kiran Singh,INC,Nizamabad-2,36,Doctorate,0,2586442,False
+K00768,Sneha Mehta,DMK,Nizamabad-2,53,Graduate,0,9612228,False
+K00769,Priya Singh,SP,Nizamabad-2,34,Post Graduate,0,467941,False
+K00770,Vikram Kumar,TMC,Nizamabad-2,63,Post Graduate,0,21248237,False
+K00771,Sneha Rao,DMK,Nizamabad-3,25,12th,2,5413401,False
+K00772,Rohan Rao,NCP,Nizamabad-3,58,10th,0,96491130,False
+K00773,Pooja Nair,INC,Nizamabad-3,41,Doctorate,0,7511899,False
+K00774,Sunita Nair,AAP,Nizamabad-3,56,Graduate,0,1890046,False
+K00775,Asha Das,BJP,Nizamabad-3,61,Post Graduate,0,3972845,False
+K00776,Amit Sharma,TMC,Nizamabad-4,25,Graduate,0,7552926,False
+K00777,Rohan Singh,AAP,Nizamabad-4,80,Graduate,0,1269892,False
+K00778,Pooja Patel,BSP,Nizamabad-4,39,Graduate,0,16025759,False
+K00779,Rohan Singh,INC,Nizamabad-4,55,Graduate,2,53021424,False
+K00780,Sunita Rao,DMK,Nizamabad-4,55,10th,0,8367374,False
