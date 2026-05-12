@@ -1,3 +1,4 @@
+Tried to deploy but facing issue so i have recorded video of whole system you can find it here- https://github.com/Hir98/election_data_analysis/blob/main/demo%20video%202026-05-12%20164731.mp4
 # 🗳️ Election Insights & Monitoring System
 
 A lightweight, platform that transforms raw (synthetic) election
