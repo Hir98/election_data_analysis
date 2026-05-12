@@ -1,6 +1,6 @@
 # 🗳️ Election Insights & Monitoring System
 
-A lightweight, POC-level platform that transforms raw (synthetic) election
+A lightweight, platform that transforms raw (synthetic) election
 data into intuitive insights, dashboards, and monitoring views.
 
 **Tech stack**
@@ -213,4 +213,3 @@ All pages share a sidebar with filters: **State**, **Party**,
 
 ## 📜 License
 
-POC / educational use. No warranty.
